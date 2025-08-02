@@ -48,5 +48,4 @@ then run: python train_model.py
 
 ## 📸 App Preview
 
-![Salary Prediction Screenshot](https://raw.githubusercontent.com/kushagrakushwaha/salary-prediction/main/screenshot.png)
 ![Salary prediction screenshot](https://github.com/Kushagrakushwaha/salary-prediction/blob/main/Screenshot.png)
